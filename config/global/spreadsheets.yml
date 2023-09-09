@@ -1,0 +1,30 @@
+test: 
+  application: iosapplication
+  author_titles_drive_id: 
+  mime_type: application/vnd.google-apps.spreadsheet
+  isbndb_api_key: 
+  googlesheets_json_key: iosapplication-googlesheets.json
+
+
+  authors_not_found_worksheet: Names!A2:D
+  authors_not_found_spreadsheet: 1UutdHoXBp9V8ig4vOMcE3L-r2TYTrvriyL8uDsict9k
+
+  unretrieved_authors_names: Names!A2:A 
+  unretrieved_authors_region: Names!C2:C
+  unretrieved_authors_country: Names!D2:D
+  unretrieved_authors_worksheet: Names!A2:D
+  unretrieved_authors_name_and_gender: Names!A2:B
+  unretrieved_authors_spreadsheet: 1Dw9xXU6nkTFclOLjrmEyJSz-XxTTjtNkwTnCXRXzktQ
+
+  retrieved_authors_worksheet: Names!A2:D
+  retrieved_authors_spreadsheet: 1MXqsS7FaOVsHTqmi0WVJfh3PMxsxOp0ceU-mcn65pys  
+
+  unsorted_booklist_worksheet: ListOfBooksByAuthors!A2:Z
+  unsorted_booklist_spreadsheet: 1PWvDWL7TaXviuhb6srnjllQa-Wnhs4EBYUJcuxi56Zo
+
+  sorted_booklist_titles_worksheet: ListOfBooksByAuthors!A2:Z
+  sorted_booklist_titles_spreadsheet: 11SOjXKR2onNUpOXa1SwlfhjURs_9CKX2dnOUa9QYWlE
+  
+  most_unique_titles_range: MostUniqueTitles!A1:Z
+  most_similar_titles_range: MostSimilarTitles!A1:Z
+  likely_unique_titles_range: LikelyUniqueTitles!A1:Z
